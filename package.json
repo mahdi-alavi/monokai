@@ -1,10 +1,10 @@
 {
-  "name": "monokai",
+  "name": "itl-monokai",
   "theme": "syntax",
-  "version": "0.24.0",
+  "version": "0.1",
   "private": true,
   "description": "A monokai theme",
-  "repository": "https://github.com/kevinsawicki/monokai",
+  "repository": "https://github.com/mahdi-alavi/monokai",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0"
